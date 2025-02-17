@@ -1,10 +1,9 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-
 # About Me 🌟
 
-- I'm currently a **2nd-year undergraduate student** pursuing a degree in **Computer Science**. 
+- I'm Anirudh, a **2nd-year undergraduate student** pursuing a degree in **Computer Science**. 
 - I enjoy exploring technology, solving problems, and creating projects that make an impact. 
 - When I'm not coding, you'll probably find me [typing](https://monkeytype.com/profile/dyno143), playing [chess](https://lichess.org/@/Anirudh_3205) or watching anime.
+- Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/anirudh-kashyap-a59313295) or [Twitter](https://x.com/Anirudh20504067?t=j9OTtJ5Wusp-Of0HdMzRDA&s=08)
 
 ---
 
