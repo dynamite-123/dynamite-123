@@ -11,6 +11,7 @@ I'm currently a **2nd-year undergraduate student** pursuing a degree in **Comput
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" /></a>
   <a href="https://www.django-rest-framework.org/"><img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white" alt="Django REST Framework" /></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
+  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" /></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
   <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" /></a>
 </p>
