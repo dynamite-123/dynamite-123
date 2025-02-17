@@ -1,7 +1,7 @@
 # About Me 🌟
 
 - I'm Anirudh, a **2nd-year undergraduate student** pursuing a degree in **Computer Science**. 
-- I enjoy coding, solving problems, and creating projects that make an impact. 
+- I enjoy coding, solving problems, and creating cool projects.
 - When I'm not coding, you'll probably find me [typing](https://monkeytype.com/profile/dyno143), playing [chess](https://lichess.org/@/Anirudh_3205) or watching anime.
 - Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/anirudh-kashyap-a59313295) or [Twitter](https://x.com/Anirudh20504067?t=j9OTtJ5Wusp-Of0HdMzRDA&s=08)
 
