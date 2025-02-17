@@ -22,8 +22,10 @@ I'm currently a **2nd-year undergraduate student** pursuing a degree in **Comput
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dynamite-123&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynamite-123&layout=compact&theme=radical" alt="Top Languages" width="49%" />
+  <span style="display: flex; justify-content: space-between; width: 100%; max-width: 900px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=dynamite-123&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynamite-123&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  </span>
 </p>
 
 ## 📊 LeetCode Stats
