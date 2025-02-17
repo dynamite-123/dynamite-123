@@ -22,6 +22,11 @@ I'm currently a **2nd-year undergraduate student** pursuing a degree in **Comput
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dynamite-123&layout=compact&theme=radical)
 
+## 📊 LeetCode Stats
+![LeetCode Profile](https://leetcard.jacoblin.cool/dyno143?theme=dark&ext=heatmap)
+
+---
+
 ---
 
 ## 🔄 Let's Connect  
