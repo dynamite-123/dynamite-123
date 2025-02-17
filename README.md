@@ -2,7 +2,9 @@
 
 # About Me 🌟
 
-I'm currently a **2nd-year undergraduate student** pursuing a degree in **Computer Science**. I enjoy exploring technology, solving problems, and creating projects that make an impact. When I'm not coding, you'll probably find me typing, playing chess or watching anime.
+-I'm currently a **2nd-year undergraduate student** pursuing a degree in **Computer Science**. 
+-I enjoy exploring technology, solving problems, and creating projects that make an impact. 
+-When I'm not coding, you'll probably find me typing, playing chess or watching anime.
 
 ---
 
@@ -19,7 +21,7 @@ I'm currently a **2nd-year undergraduate student** pursuing a degree in **Comput
 </p>
 
 ---
-
+<!---
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dynamite-123&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
@@ -27,6 +29,7 @@ I'm currently a **2nd-year undergraduate student** pursuing a degree in **Comput
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynamite-123&layout=compact&theme=radical" alt="Top Languages" width="49%" />
 </p>
+--->
 
 ## 📊 LeetCode Stats
 ![LeetCode Profile](https://leetcard.jacoblin.cool/dyno143?theme=dark&ext=heatmap)
@@ -35,7 +38,7 @@ I'm currently a **2nd-year undergraduate student** pursuing a degree in **Comput
 
 ---
 
-## 🔄 Let's Connect  
+## 🔄 Social Links
 - [LeetCode](https://leetcode.com/u/dyno143/)
 - [Discord](https://discordapp.com/users/741107664876077086/)
 - [Monkeytype](https://monkeytype.com/profile/dyno143)
