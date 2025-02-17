@@ -31,7 +31,8 @@ I'm currently a **2nd-year undergraduate student** pursuing a degree in **Comput
 
 ## 🔄 Let's Connect  
 - [LeetCode](https://leetcode.com/u/dyno143/)
-- [Discord](https://discordapp.com/users/._dyno._/)
+- [Discord](https://discordapp.com/users/741107664876077086/)
+
 
 ---
 
