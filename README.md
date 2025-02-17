@@ -4,7 +4,7 @@
 
 - I'm currently a **2nd-year undergraduate student** pursuing a degree in **Computer Science**. 
 - I enjoy exploring technology, solving problems, and creating projects that make an impact. 
-- When I'm not coding, you'll probably find me typing, playing chess or watching anime.
+- When I'm not coding, you'll probably find me [typing](https://monkeytype.com/profile/dyno143), playing [chess](https://lichess.org/@/Anirudh_3205) or watching anime.
 
 ---
 
@@ -33,14 +33,6 @@
 
 ## 📊 LeetCode Stats
 ![LeetCode Profile](https://leetcard.jacoblin.cool/dyno143?theme=dark&ext=heatmap)
-
----
-
-## 🔄 Social Links
-- [LeetCode](https://leetcode.com/u/dyno143/)
-- [Discord](https://discordapp.com/users/741107664876077086/)
-- [Monkeytype](https://monkeytype.com/profile/dyno143)
-
 
 ---
 
