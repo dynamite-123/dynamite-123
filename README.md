@@ -32,7 +32,7 @@
 --->
 
 ## 📊 LeetCode Stats
-![LeetCode Profile](https://leetcard.jacoblin.cool/dyno143?theme=dark&ext=heatmap)
+[![LeetCode Profile](https://leetcard.jacoblin.cool/dyno143?theme=dark&ext=heatmap)](https://leetcode.com/dyno143/)
 
 ---
 
