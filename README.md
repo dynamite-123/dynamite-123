@@ -36,8 +36,6 @@
 
 ---
 
----
-
 ## 🔄 Social Links
 - [LeetCode](https://leetcode.com/u/dyno143/)
 - [Discord](https://discordapp.com/users/741107664876077086/)
