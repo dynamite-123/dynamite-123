@@ -30,7 +30,6 @@ I'm currently a **2nd-year undergraduate student** pursuing a degree in **Comput
 ---
 
 ## 🔄 Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/anirudh-kashyap-a59313295/)
 - [LeetCode](https://leetcode.com/u/dyno143/)
 - [Discord](https://discordapp.com/users/._dyno._/)
 
