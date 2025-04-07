@@ -3,7 +3,7 @@
 - I'm Anirudh, a **2nd-year undergraduate student** pursuing a degree in **Computer Science**. 
 - I enjoy coding, solving problems, and creating cool projects.
 - When I'm not coding, you'll probably find me [typing](https://monkeytype.com/profile/dyno143), playing [chess](https://lichess.org/@/Anirudh_3205) or watching [anime](https://anilist.co/user/dynamite012/).
-- Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/anirudh-kashyap-a59313295).
+- Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/anirudh-kashyap-a59313295/).
 
 ![](https://komarev.com/ghpvc/?username=dynamite-123&color=blue)
 ---
