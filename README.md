@@ -27,12 +27,6 @@
 ---
 
 ## 📊 GitHub Stats
-<!--<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dynamite-123&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-</p>-->
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dynamite-123&theme=radical" alt="GitHub Streak" width="49%" />
-</p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynamite-123&layout=compact&theme=radical" alt="Top Languages" width="49%" />
 </p>
