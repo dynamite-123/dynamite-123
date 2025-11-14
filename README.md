@@ -35,9 +35,7 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynamite-123&layout=compact&theme=radical" alt="Top Languages" width="49%" />
-</p>
+<div align="center"> <!-- Streak stats --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dynamite-123&theme=dark&hide_border=true"/> <p></p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dynamite-123&theme=dark" alt="Profile Details" /> <p></p> <!-- Stats + Languages side by side --></div>
 
 ## 📊 LeetCode Stats
 <p align="left">
