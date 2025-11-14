@@ -1,7 +1,7 @@
 # About Me 🌟
 
 - I'm Anirudh, a **3rd-year undergraduate student** pursuing a degree in **Computer Science**. 
-- I enjoy coding, solving problems, and creating cool projects.
+- I enjoy competitive programming, solving problems, and creating cool projects.
 - When I'm not coding, you'll probably find me [typing](https://monkeytype.com/profile/zeokami), playing [chess](https://lichess.org/@/Anirudh_3205) or watching [anime](https://anilist.co/user/dynamite012/).
 - Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/anirudh-kashyap-a59313295/).
 
@@ -22,6 +22,14 @@
   <a href="https://jwt.io/"><img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=white" alt="JWT" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
   <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" alt="Vim" /></a>
+  <a href="https://ai.pydantic.dev/"><img src="https://img.shields.io/badge/Pydantic%20AI-4B32C3?style=flat&logo=pydantic&logoColor=white" alt="Pydantic AI" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="https://neovim.io/"><img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim" /></a>
+<a href="#"><img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=database&logoColor=white" alt="SQL" /></a>
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" /></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" /></a>
+
+
 </p>
 
 ---
