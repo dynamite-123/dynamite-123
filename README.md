@@ -32,7 +32,9 @@
 </p>
 
 ## 📊 LeetCode Stats
-[![LeetCode Profile](https://leetcard.jacoblin.cool/zeokami?theme=dark&ext=heatmap)](https://leetcode.com/zeokami/)
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/zeokami?border=0&radius=20" />
+</p>
 
 ---
 
