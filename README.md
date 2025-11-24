@@ -39,7 +39,7 @@
 
 ## 📊 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/zeokami?border=0&radius=20" />
+  <img src="https://leetcard.jacoblin.cool/zeokami?theme=dark&border=0&radius=20" />
 </p>
 
 ---
